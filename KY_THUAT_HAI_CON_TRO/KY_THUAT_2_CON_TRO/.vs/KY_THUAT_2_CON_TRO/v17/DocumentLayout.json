@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT\\Code\\code_C\u002B\u002B\\Code_Co_Ban\\KY_THUAT_HAI_CON_TRO\\KY_THUAT_2_CON_TRO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89E7F0FC-CC96-44C8-987F-C872AFA0EFEB}|KY_THUAT_2_CON_TRO.vcxproj|D:\\IT\\Code\\code_C\u002B\u002B\\Code_Co_Ban\\KY_THUAT_HAI_CON_TRO\\KY_THUAT_2_CON_TRO\\KY_THUAT_2_CON_TRO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E7F0FC-CC96-44C8-987F-C872AFA0EFEB}|KY_THUAT_2_CON_TRO.vcxproj|solutionrelative:KY_THUAT_2_CON_TRO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vector",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "ViewState": "AgIAAHYHAAAAAAAAAAD4v3gHAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-27T02:49:34.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KY_THUAT_2_CON_TRO.cpp",
+              "DocumentMoniker": "D:\\IT\\Code\\code_C\u002B\u002B\\Code_Co_Ban\\KY_THUAT_HAI_CON_TRO\\KY_THUAT_2_CON_TRO\\KY_THUAT_2_CON_TRO.cpp",
+              "RelativeDocumentMoniker": "KY_THUAT_2_CON_TRO.cpp",
+              "ToolTip": "D:\\IT\\Code\\code_C\u002B\u002B\\Code_Co_Ban\\KY_THUAT_HAI_CON_TRO\\KY_THUAT_2_CON_TRO\\KY_THUAT_2_CON_TRO.cpp",
+              "RelativeToolTip": "KY_THUAT_2_CON_TRO.cpp",
+              "ViewState": "AgIAABwBAAAAAAAAAAD4vysBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-31T03:20:14.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

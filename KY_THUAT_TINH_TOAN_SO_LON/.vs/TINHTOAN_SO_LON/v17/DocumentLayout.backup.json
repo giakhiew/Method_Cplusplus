@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GiaKhiem\\Offline\\TINHTOAN_SO_LON\\TINHTOAN_SO_LON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2239EF-B040-4E9E-885E-6212D0EA7A5F}|TINHTOAN_SO_LON.vcxproj|D:\\GiaKhiem\\Offline\\TINHTOAN_SO_LON\\TINHTOAN_SO_LON\\TINHTOAN_SO_LON.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D2239EF-B040-4E9E-885E-6212D0EA7A5F}|TINHTOAN_SO_LON.vcxproj|solutionrelative:TINHTOAN_SO_LON.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TINHTOAN_SO_LON.cpp",
+              "DocumentMoniker": "D:\\GiaKhiem\\Offline\\TINHTOAN_SO_LON\\TINHTOAN_SO_LON\\TINHTOAN_SO_LON.cpp",
+              "RelativeDocumentMoniker": "TINHTOAN_SO_LON.cpp",
+              "ToolTip": "D:\\GiaKhiem\\Offline\\TINHTOAN_SO_LON\\TINHTOAN_SO_LON\\TINHTOAN_SO_LON.cpp",
+              "RelativeToolTip": "TINHTOAN_SO_LON.cpp",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAAAAgBAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-05T02:31:13.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

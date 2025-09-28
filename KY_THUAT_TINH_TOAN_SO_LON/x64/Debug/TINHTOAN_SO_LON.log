@@ -1,0 +1,14 @@
+﻿  TINHTOAN_SO_LON.cpp
+D:\GiaKhiem\Offline\TINHTOAN_SO_LON\TINHTOAN_SO_LON\TINHTOAN_SO_LON.cpp(54,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\GiaKhiem\Offline\TINHTOAN_SO_LON\TINHTOAN_SO_LON\TINHTOAN_SO_LON.cpp(81,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\GiaKhiem\Offline\TINHTOAN_SO_LON\TINHTOAN_SO_LON\TINHTOAN_SO_LON.cpp(98,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\GiaKhiem\Offline\TINHTOAN_SO_LON\TINHTOAN_SO_LON\TINHTOAN_SO_LON.cpp(136,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\GiaKhiem\Offline\TINHTOAN_SO_LON\TINHTOAN_SO_LON\TINHTOAN_SO_LON.cpp(165,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\GiaKhiem\Offline\TINHTOAN_SO_LON\TINHTOAN_SO_LON\TINHTOAN_SO_LON.cpp(196,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\GiaKhiem\Offline\TINHTOAN_SO_LON\TINHTOAN_SO_LON\TINHTOAN_SO_LON.cpp(197,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\GiaKhiem\Offline\TINHTOAN_SO_LON\TINHTOAN_SO_LON\TINHTOAN_SO_LON.cpp(247,27): warning C4244: 'argument': conversion from '__int64' to '_Ty', possible loss of data
+D:\GiaKhiem\Offline\TINHTOAN_SO_LON\TINHTOAN_SO_LON\TINHTOAN_SO_LON.cpp(247,27): warning C4244:         with
+D:\GiaKhiem\Offline\TINHTOAN_SO_LON\TINHTOAN_SO_LON\TINHTOAN_SO_LON.cpp(247,27): warning C4244:         [
+D:\GiaKhiem\Offline\TINHTOAN_SO_LON\TINHTOAN_SO_LON\TINHTOAN_SO_LON.cpp(247,27): warning C4244:             _Ty=int
+D:\GiaKhiem\Offline\TINHTOAN_SO_LON\TINHTOAN_SO_LON\TINHTOAN_SO_LON.cpp(247,27): warning C4244:         ]
+  TINHTOAN_SO_LON.vcxproj -> D:\GiaKhiem\Offline\TINHTOAN_SO_LON\TINHTOAN_SO_LON\x64\Debug\TINHTOAN_SO_LON.exe

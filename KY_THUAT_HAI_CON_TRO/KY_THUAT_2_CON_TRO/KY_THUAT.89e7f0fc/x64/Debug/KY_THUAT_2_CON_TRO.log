@@ -1,0 +1,29 @@
+﻿  KY_THUAT_2_CON_TRO.cpp
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(93,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(93,76): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(111,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(111,66): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(127,57): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(179,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(201,37): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(201,37): warning C4244:         with
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(201,37): warning C4244:         [
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(201,37): warning C4244:             _Ty=__int64
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(201,37): warning C4244:         ]
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(205,21): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(205,21): warning C4244:         with
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(205,21): warning C4244:         [
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(205,21): warning C4244:             _Ty=__int64
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(205,21): warning C4244:         ]
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(212,24): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(212,24): warning C4244:         with
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(212,24): warning C4244:         [
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(212,24): warning C4244:             _Ty=__int64
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(212,24): warning C4244:         ]
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(269,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(272,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(314,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(315,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(316,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\KY_THUAT_2_CON_TRO.cpp(318,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  KY_THUAT_2_CON_TRO.vcxproj -> D:\IT\Code\code_C++\Code_Co_Ban\KY_THUAT_HAI_CON_TRO\KY_THUAT_2_CON_TRO\x64\Debug\KY_THUAT_2_CON_TRO.exe
