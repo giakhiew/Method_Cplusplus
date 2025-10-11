@@ -26,8 +26,7 @@ void sinh_chuoi_nhi_phan(int n) {
 
     arr[i] = 1;
 
-    for (int k = i + 1; k <= n; k++) arr[k] = 0;
-    
+    for (int k = i + 1; k <= n; k++) arr[k] = 0;   
 }
 
 void sinh_to_hop_chap_k_cua_n(int k, int n) {
@@ -42,7 +41,6 @@ void sinh_to_hop_chap_k_cua_n(int k, int n) {
     arr[i] = arr[i] + 1;
 
     for (int tam = i + 1; tam <= k; tam++) arr[tam] = arr[tam - 1] + 1;
-
 }
 
 void sinh_hoan_vi_cua_n(int n) {

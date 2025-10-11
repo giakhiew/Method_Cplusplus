@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GiaKhiem\\Code_Co_Ban\\DE_QUY_COBAN\\",
+  "WorkspaceRootPath": "D:\\GiaKhiem\\Method_C\u002B\u002B\\KY_THUAT_DE_QUY_COBAN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8B78877-4286-48A4-9F0B-13EDFB30C156}|DE_QUY_COBAN.vcxproj|D:\\GiaKhiem\\Code_Co_Ban\\DE_QUY_COBAN\\DE_QUY_COBAN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C8B78877-4286-48A4-9F0B-13EDFB30C156}|DE_QUY_COBAN.vcxproj|D:\\GiaKhiem\\Method_C\u002B\u002B\\KY_THUAT_DE_QUY_COBAN\\DE_QUY_COBAN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C8B78877-4286-48A4-9F0B-13EDFB30C156}|DE_QUY_COBAN.vcxproj|solutionrelative:DE_QUY_COBAN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DE_QUY_COBAN.cpp",
-              "DocumentMoniker": "D:\\GiaKhiem\\Code_Co_Ban\\DE_QUY_COBAN\\DE_QUY_COBAN.cpp",
+              "DocumentMoniker": "D:\\GiaKhiem\\Method_C\u002B\u002B\\KY_THUAT_DE_QUY_COBAN\\DE_QUY_COBAN.cpp",
               "RelativeDocumentMoniker": "DE_QUY_COBAN.cpp",
-              "ToolTip": "D:\\GiaKhiem\\Code_Co_Ban\\DE_QUY_COBAN\\DE_QUY_COBAN.cpp",
+              "ToolTip": "D:\\GiaKhiem\\Method_C\u002B\u002B\\KY_THUAT_DE_QUY_COBAN\\DE_QUY_COBAN.cpp",
               "RelativeToolTip": "DE_QUY_COBAN.cpp",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAowHMAAAAAAAAA",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAowHMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-20T02:16:46.032Z",
               "EditorCaption": ""
