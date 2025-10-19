@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <map>
 
 using namespace std;
 
@@ -7,6 +8,7 @@ int arr[101], arrh[101], arrw[101], used[101], solution[101];
 bool dcx[101], dcn[101], columnarr[101], rowarr[101];
 int n = 3;
 int k;
+string str;
 
 void print(int n) {
     for (int i = 1; i <= n; i++) {
@@ -101,18 +103,58 @@ void initArrH() {
 //    }
 //}
 
-int ans = 0, sum1 = 0, sum2 = 0;
+//int ans = 0, sum1 = 0, sum2 = 0;
+//
+//void doiDau(int pos) {
+//    if (pos == n) {
+//        ans = min(sum1, sum2);
+//    }
+//    
+//}
 
-void doiDau(int pos) {
-    if (pos == n) {
-        ans = min(sum1, sum2);
+int countx = 0;
+
+void initstr() {
+    for (int i = 1; i <= n; i++) {
+        cin >> str[i];
+    }
+}
+
+vector<char> vc;
+map<char, int> m;
+
+void initStrAl() {
+    for (char i = 97; i <= (97 + 25); i++) {
+        char tam = i;
+        vc.push_back(i);
+    }
+
+    for (auto item : vc) {
+        m[item]++;
+    }
+}
+
+bool checkchar(string str) {
+    for (auto item : str) {
+        m[item]++;
     }
     
+    for (auto it = m.begin(); it != m.end(); it++) {
+        
+    }
+}
+
+void xauDayDu(int pos) {
+    if (pos == n) {
+        countx++;
+        return;
+    }
+
+
 }
 
 int main() {
-    initArrH();
-    doiDau(1);
-    cout << ans;
+    initStrAl();
+    for (auto item : vc) cout << item;
     return 0;
 }
