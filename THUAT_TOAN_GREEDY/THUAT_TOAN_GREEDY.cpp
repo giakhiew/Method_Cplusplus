@@ -1,14 +1,10 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+#include <map>
 using namespace std;
 
 int n, m, X;
-vector<int> d(n);
-
-struct Job {
-	int deadline, profit;
-};
 
 void Bai1() {
 	vector<int> d(n);
@@ -50,9 +46,35 @@ void Bai2() {
 
 int main()
 {
-	cin >> n >> m;
-	vector<int> a(n), b(n);
-	for (int i = 0; i < n; i++) cin >> a[i];
-	for (int i = 0; i < m; i++) cin >> b[i];
+	cin >> n;
+	vector<pair<int, int>> vp(n);
+	map<int, int> a;
+	int res = 0;
+	for (int i = 0; i < n; i++) {
+		int dl, pf;
+		cin >> dl >> pf;
+		vp[i] = {dl, pf};
+	}
+	sort(vp.begin(), vp.end(), [](pair<int, int> a, pair<int, int> b) {
+		return a.second > b.second;
+		});
+	for (int i = 0; i < n; i++) {
+		if (a[vp[i].first] == 0) {
+			a[vp[i].first] = vp[i].second;
+		}
+		else {
+			int k = vp[i].first;
+			while (k > 1) {
+				if (a[k - 1] == 0) {
+					a[k - 1] = vp[i].second;
+					break;
+				}
+				else k--;
+			}
+		}
+	}
+
+	for (auto item : a) res += item.second;
+	cout << res;
 	return 0;
 }
